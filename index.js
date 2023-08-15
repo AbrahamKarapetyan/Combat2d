@@ -59,7 +59,7 @@ const player = new Fighter({
       framesMax: 8
     },
     takeHit: {
-      imageSrc: './img/evilwizard/Take Hit.png',
+      imageSrc: './img/evilwizard/Take hit.png',
       framesMax: 3
     },
     death: {
